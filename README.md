@@ -1,4 +1,3 @@
-Of course! Here is a README file for your "Global Climate Events" dashboard, formatted in Markdown for GitHub. You can copy and paste this directly into a README.md file in your repository.
 Global Climate Events Analysis Dashboard
 This repository contains the Power BI project for an interactive dashboard that analyzes the impact of global climate events. The dashboard provides a comprehensive overview of key metrics such as fatalities, injuries, affected populations, and economic impact across different countries and event types.
 Dashboard Preview
@@ -25,7 +24,7 @@ Users can dynamically filter the entire report by:
  * Data Source: [Specify your data source here, e.g., CSV file from Kaggle, WHO database, etc.]
 🚀 How to Use
  * Clone this repository to your local machine.
-   git clone [your-repository-url]
+   git clone []
 
  * Open the .pbix file in Power BI Desktop.
  * If the data source is not embedded, you may need to update the data source path in the "Transform Data" -> "Data source settings" menu.
@@ -38,7 +37,8 @@ The dataset used for this project is [Your Dataset Name], sourced from [Link to 
  * Clarity of Visuals: Improve the titles and labels on some charts for better readability (e.g., the 'year and month' line chart).
  * Add Tooltips: Implement custom tooltips to provide more detailed information when a user hovers over a data point.
  * Advanced Analytics: Incorporate forecasting models to predict future trends in affected populations or economic impact.
+   
 👤 Author
-[Your Name]
+[Arawind]
  * LinkedIn: [Your LinkedIn Profile URL]
  * GitHub: [Your GitHub Profile URL]
